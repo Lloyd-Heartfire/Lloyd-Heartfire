@@ -1,9 +1,6 @@
 # À propos :
 Je suis un développeur full stack junior spécialisé dans le Machine Learning et le frontend. Ayant terminé ma formation, je suis actuellement à la recherche d'un emploi qui pourra parfaire ma connaissance de certains langages de programmation que j'utilise déjà, mais également pouvoir m'aider dans mon apprentissage des langages que je ne connais peu ou pas.
 
-## Portfolio
-https://lloyd-heartfire.github.io/Portfolio/
-
 # Stack Technique :
 ## Front
 ### Langages
